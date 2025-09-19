@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/BP_GameMode.uasset",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/Blueprints/IMC_Default.uasset",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/Blueprints/BP_FPCharacter.uasset",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/LevelPrototyping/NewWorld.umap",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Unreal Projects/GDW_UE5/GDW_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

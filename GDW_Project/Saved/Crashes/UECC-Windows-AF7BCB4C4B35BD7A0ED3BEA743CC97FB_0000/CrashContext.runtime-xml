@@ -31,7 +31,7 @@
 		<DeploymentName>UE_5.6</DeploymentName>
 		<EngineVersion>5.6.1-44394996+++UE5+Release-5.6</EngineVersion>
 		<EngineCompatibleVersion>5.6.1-44394996+++UE5+Release-5.6</EngineCompatibleVersion>
-		<CommandLine>&quot;C:/Unreal Projects/GDW_UE5/GDW_Project/GDW_Project.uproject&quot; -AUTH_LOGIN=unused -AUTH_PASSWORD=6e6d0539923041cebe33d40e8800f63e -AUTH_TYPE=exchangecode -epicapp=UE_5.6 -epicenv=Prod -EpicPortal -epicusername=BigRedPanda_ -epicuserid=76e11a7573184957a3ffaad3c84efc1d -epiclocale=en -epicsandboxid=ue</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>9</LanguageLCID>
 		<AppDefaultLocale>en-CA</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.6-CL-44394996</BuildVersion>
